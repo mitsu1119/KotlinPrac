@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "KotlinPrac"
 include ':app'
+include ':app:tracking'
